@@ -1,6 +1,6 @@
 # PROG10
 
-¡Bienvenido a mi repositorio de programación! Este espacio está dedicado a la resolución de los ejercicios y prácticas correspondientes a la **Unidad Didáctica 9 (UD9)**.
+¡Bienvenido a mi repositorio de programación! Este espacio está dedicado a la resolución de los ejercicios y prácticas correspondientes a la **Unidad Didáctica 10 (UD10)**.
 
 ---
 
