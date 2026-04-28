@@ -23,13 +23,13 @@ public class AC2 {
             try { num = sc.nextInt();
                     if (num != -1) {
                        if (num < 0) {
-                            System.out.println("Número negativo ignorado (solo se admiten no negativos o -1 para salir).");
+                            System.out.println("Numero negativo ignorado (solo se admiten no negativos o -1 para salir).");
                     }        else {
                                     numeros.add(num);
                                  }
                      }
             } catch (InputMismatchException e) {
-                System.out.println("Entrada no válida, introduce un número entero.");
+                System.out.println("Entrada no válida, introduce un numero entero.");
                                 sc.nextLine(); 
                                                  num = 0;      
            }
