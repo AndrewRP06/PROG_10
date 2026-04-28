@@ -29,7 +29,7 @@ public class AC2 {
                                  }
                      }
             } catch (InputMismatchException e) {
-                System.out.println("Entrada no válida, introduce un numero entero.");
+                System.out.println("Entrada no valida, introduce un numero entero.");
                                 sc.nextLine(); 
                                                  num = 0;      
            }
